@@ -50,7 +50,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 
 ## TIMING DIAGRAM FOR IP COUNTER
-![image](https://github.com/user-attachments/assets/d599bf38-1c84-4988-91b9-c0cbd22f93da)
+`![image](https://github.com/user-attachments/assets/e599ea3a-e469-44db-a291-841cbe3200a0)
+
+
 
 
 ## TRUTH TABLE
